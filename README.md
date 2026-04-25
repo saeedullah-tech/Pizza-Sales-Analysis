@@ -61,7 +61,7 @@ SQL was used to:
 ### Example Query
 
 📌 Add your SQL screenshot below:
-[Image]!(https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(60).png)
+![Images](https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(60).png)
 [Image]!(https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(61).png)
 [Image] !(https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(62).png)
 
