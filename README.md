@@ -25,6 +25,8 @@ The goal is to extract meaningful business insights such as revenue trends, best
 │── 🖼️ dashboard_1.png
 │── 🖼️ dashboard_2.png
 │── 🖼️ sql_preview.png
+│── 🖼️ sql_preview.png
+│── 🖼️ sql_preview.png
 │── README.md
 ```
 
@@ -58,17 +60,10 @@ SQL was used to:
 
 ### Example Query
 
-```sql
-SELECT 
-    pizza_category, 
-    SUM(total_price) AS total_sales,
-    SUM(total_price) * 100.0 / SUM(SUM(total_price)) OVER () AS percentage
-FROM pizza_sales
-GROUP BY pizza_category;
-```
-
 📌 Add your SQL screenshot below:
-![SQL Preview](sql_preview.png)
+[Image]!(https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(60).png)
+[Image]!(https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(61).png)
+[Image] !(https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(62).png)
 
 ---
 
