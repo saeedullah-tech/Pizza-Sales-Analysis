@@ -67,6 +67,11 @@ SQL was used to:
 
 ---
 ## 📈 Power BI Dashboard
+KPI
+* Total Revenue: **817.86K**
+* Total Orders: **21,350**
+* Total Pizzas Sold: **49,574**
+* Average Order Value: **38.31
 ### 🔹 Dashboard 1: Home
 
 * Daily order trends (peak on weekends)
@@ -85,13 +90,7 @@ SQL was used to:
 ---
 
 ### 🔹 Dashboard 2: Best & Worest
-
-* Total Revenue: **817.86K**
-* Total Orders: **21,350**
-* Total Pizzas Sold: **49,574**
-* Average Order Value: **38.31**
 * Best & Worst Sellers by:
-
   * Revenue
   * Quantity
   * Orders
