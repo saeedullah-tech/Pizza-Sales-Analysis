@@ -66,26 +66,8 @@ SQL was used to:
 ![Image](https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(62).png)
 
 ---
-
 ## 📈 Power BI Dashboard
-
-### 🔹 Dashboard 1: Sales Performance
-
-* Total Revenue: **817.86K**
-* Total Orders: **21,350**
-* Total Pizzas Sold: **49,574**
-* Average Order Value: **38.31**
-* Best & Worst Sellers by:
-
-  * Revenue
-  * Quantity
-  * Orders
-
-![Dashboard 1](dashboard_1.png)
-
----
-
-### 🔹 Dashboard 2: Trends & Insights
+### 🔹 Dashboard 1: Home
 
 * Daily order trends (peak on weekends)
 * Monthly trends (highest in July)
@@ -98,8 +80,23 @@ SQL was used to:
   * Classic category leads sales
   * Large size dominates revenue
 
-![Dashboard 2](dashboard_2.png)
+![Images](https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(59).png)
 
+---
+
+### 🔹 Dashboard 2: Best & Worest
+
+* Total Revenue: **817.86K**
+* Total Orders: **21,350**
+* Total Pizzas Sold: **49,574**
+* Average Order Value: **38.31**
+* Best & Worst Sellers by:
+
+  * Revenue
+  * Quantity
+  * Orders
+
+![Images](https://github.com/saeedullah-tech/Pizza-Sales-Analysis/blob/afa2fb2dfc6a5f2945c73beaae40d6bea4b143e2/Screenshot%20(58).png)
 ---
 
 ## 🔍 Key Insights
